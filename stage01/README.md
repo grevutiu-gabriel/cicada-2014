@@ -6,7 +6,7 @@ Start with the twee
 
 Get the image
 
-	wget i.imgur.com/zN4h51m.jpg 
+	wget http://i.imgur.com/zN4h51m.jpg 
 
 Run outguess
 
